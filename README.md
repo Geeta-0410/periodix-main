@@ -110,12 +110,13 @@ periodix-main/
 ## 🖼️ Screenshots
 
 ### 🔹 Interactive Periodic Table
-![Periodic Table View](screenshots/home.png)
+![Periodic Table View](./screenshots/home.png)
 
 ### 🔹 Element History & List View
-![Element List View](screenshots/element-list.png)
+![Element List View](./screenshots/element-list.png)
 
 ### 🔹 Element Detailed Information
-![Element Detail View](screenshots/element-detail.png)
+![Element Detail View](./screenshots/element-detail.png)
+
 
 ---
