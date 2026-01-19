@@ -38,7 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 # Periodix 🧪  
 ### A Modern Next.js Web Application
 
-🚀 **Live Demo:** https://periodix-chi.vercel.app/  
 📂 **GitHub Repository:** https://github.com/Geeta-0410/periodix-main
 
 ---
