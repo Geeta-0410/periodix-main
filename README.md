@@ -73,10 +73,6 @@ It demonstrates strong fundamentals in **React.js routing, component-based desig
 
 ---
 
-## 🌐 Live Deployment
-
-The application is live and accessible here:  
-👉 **https://periodix-chi.vercel.app/**
 
 ---
 
