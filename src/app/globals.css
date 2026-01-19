@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* {
+  .element{
+  height: 70px;
+  width: 70px;
+  margin: 2px;
+  font-family: "sans-serif";
+  font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: white;
+} 
+
+ .transition{
+  border: 2px solid rgb(174, 36, 36);
+}
+
+.alkali{
+  border: 2px solid blue;
+}
+
+.alkaline{
+  border: 2px solid rgb(35, 91, 165);
+}
+
+.noble{
+  border: 2px solid lightblue;
+}
+
+.metalloid{
+  border: 2px solid rgba(62, 155, 15, 0.876);
+}
+
+.nonmetal{
+border: 2px solid fuchsia;
+}
+
+.lanthanoid{
+  border: 2px solid darkseagreen;
+}
+
+.actinoid{
+  border: 2px solid yellow;
+}
+
+.metal{
+  border: 2px solid rgb(119, 50, 175);
+}
+
+.halogen{
+  border: 2px solid orange;
+}
+
+.post-transition{
+  border: 2px solid cadetblue;
+} 
+
+} */
+
+
+
+.periodictable {
+  display: grid;
+  grid-template-columns: repeat(18, 75px);
+  grid-template-rows: repeat(10, 75px);
+}
+
+.font1{
+  font-family: "Protest Revolution",sans-serif; 
+}
+
+.poppins2{
+  font-family: "Poppins", sans-serif;
+}
+
+.poppins{
+  font-family: "Kode Mono", monospace; 
+  font-weight: 700;
+}
+
+.background{
+  background: rgb(2,4,29);
+  background: radial-gradient(circle, rgba(2, 2, 23, 0.965) 10%, rgb(0, 0, 0) 50%);
+}
+
+.backgroundNav{
+  background: rgb(2,4,29);
+  background: radial-gradient(circle, rgba(0, 0, 0, 0.965) 10%, rgb(0, 0, 0) 50%);
+}
+
+.backgroundCursorDiv{
+  background: rgb(55,24,71);
+  background: linear-gradient(335deg, rgb(2, 5, 52) 0%, rgb(0, 0, 0) 80%);
+}
